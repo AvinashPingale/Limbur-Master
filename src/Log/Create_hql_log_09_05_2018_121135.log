@@ -1,0 +1,10 @@
+2018-Sep-05 12:11:33 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Creating a history file
+2018-Sep-05 12:11:33 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  file 'paypal_account_hist.hql' created successfully
+2018-Sep-05 12:11:33 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: Computation / Calculation
+2018-Sep-05 12:11:33 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v3.xlsx
+2018-Sep-05 12:11:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account

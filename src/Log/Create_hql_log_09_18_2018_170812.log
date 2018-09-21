@@ -1,0 +1,84 @@
+2018-Sep-18 17:08:12 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:13 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:13 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:14 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:15 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:15 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: type
+2018-Sep-18 17:08:15 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: type
+2018-Sep-18 17:08:23 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:24 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:24 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:24 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:27 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:27 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:27 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:27 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:29 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:30 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:30 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: cast(from_unixtime(account.time_created) as timestamp)
+2018-Sep-18 17:08:32 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:32 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: cast(from_unixtime(account.time_updated) as timestamp)
+2018-Sep-18 17:08:33 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:34 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:51 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:51 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: 'ORIGINAL_COLUMN'
+2018-Sep-18 17:08:51 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: 'ORIGINAL_COLUMN'
+2018-Sep-18 17:08:52 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:52 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: INTERIM JOIN
+2018-Sep-18 17:08:52 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: INTERIM JOIN
+2018-Sep-18 17:08:54 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:55 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:56 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:56 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:56 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:56 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: TWO TABLE JOIN
+2018-Sep-18 17:08:57 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:57 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:58 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:08:58 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: cast(from_unixtime(account.last_time_opened) as timestamp)

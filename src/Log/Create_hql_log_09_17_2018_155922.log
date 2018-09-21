@@ -1,0 +1,52 @@
+2018-Sep-17 15:59:16 [main] CDM_Automation.Build_hql.CreateDDL 
+  INFO  Creating a DDL file
+2018-Sep-17 15:59:16 [main] CDM_Automation.Build_hql.CreateDDL 
+  INFO  file 'paypal_account_ddl.hql' created successfully
+2018-Sep-17 15:59:16 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Column Name
+2018-Sep-17 15:59:16 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-17 15:59:18 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-17 15:59:18 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Column Name
+2018-Sep-17 15:59:18 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Data Type
+2018-Sep-17 15:59:18 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Data Type
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateDDL 
+  INFO  File paypal_account_ddl.hql created successfully
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  Creating a history file
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  file 'paypal_account_hist.hql' created successfully
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: Computation / Calculation
+2018-Sep-17 15:59:19 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-17 15:59:20 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-17 15:59:20 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for Computation / Calculation
+2018-Sep-17 15:59:20 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Column Name
+2018-Sep-17 15:59:20 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-17 15:59:21 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-17 15:59:21 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Column Name
+2018-Sep-17 15:59:21 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Data Type
+2018-Sep-17 15:59:21 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-17 15:59:22 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-17 15:59:22 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Data Type
+2018-Sep-17 15:59:22 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  File paypal_account_hist.hql created successfully

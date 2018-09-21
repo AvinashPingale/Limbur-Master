@@ -1,0 +1,38 @@
+2018-Sep-18 16:56:00 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-18 16:56:00 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for Computation / Calculation
+2018-Sep-18 16:56:00 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Column Name
+2018-Sep-18 16:56:00 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-18 16:56:01 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-18 16:56:01 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Column Name
+2018-Sep-18 16:56:01 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: L1 Data Type
+2018-Sep-18 16:56:01 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-18 16:56:02 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-18 16:56:02 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for L1 Data Type
+2018-Sep-18 16:56:02 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-18 16:56:03 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  Reading sheet: Source Table Information
+2018-Sep-18 16:56:03 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Entering getEntireColumn for column: Join Condition
+2018-Sep-18 16:56:03 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-18 16:56:04 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Reading sheet: account
+2018-Sep-18 16:56:04 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Leaving getEntireColumn for Join Condition
+2018-Sep-18 16:56:04 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  File paypal_account_hist.hql created successfully
+2018-Sep-18 16:56:04 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  Reading Excel: src/Input/Paypal_L1_Data_Mappings_SOR_to_CDM_V05_v4.xlsx
+2018-Sep-18 16:56:05 [main] CDM_Automation.Build_hql.CreateHist 
+  INFO  Reading sheet: Source Table Information

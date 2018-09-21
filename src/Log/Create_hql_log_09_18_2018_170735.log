@@ -1,0 +1,6 @@
+2018-Sep-18 17:07:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Checking whether cell contains value or not
+2018-Sep-18 17:07:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: coalesce(account_xref.account_key, -99)
+2018-Sep-18 17:07:35 [main] CDM_Automation.Build_hql.CreateHQL 
+  INFO  Cell contains: coalesce(account_xref.account_key, -99)
